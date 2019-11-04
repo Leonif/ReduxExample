@@ -13,6 +13,7 @@
 		F692FE65236EE8CD00F13E09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F692FE63236EE8CD00F13E09 /* Main.storyboard */; };
 		F692FE67236EE8CE00F13E09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F692FE66236EE8CE00F13E09 /* Assets.xcassets */; };
 		F692FE6A236EE8CE00F13E09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F692FE68236EE8CE00F13E09 /* LaunchScreen.storyboard */; };
+		F692FE72236EE8E300F13E09 /* SimpleRedux.swift in Sources */ = {isa = PBXBuildFile; fileRef = F692FE71236EE8E300F13E09 /* SimpleRedux.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F692FE66236EE8CE00F13E09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F692FE69236EE8CE00F13E09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F692FE6B236EE8CE00F13E09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F692FE71236EE8E300F13E09 /* SimpleRedux.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleRedux.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				F692FE5D236EE8CD00F13E09 /* AppDelegate.swift */,
 				F692FE5F236EE8CD00F13E09 /* SceneDelegate.swift */,
+				F692FE71236EE8E300F13E09 /* SimpleRedux.swift */,
 				F692FE61236EE8CD00F13E09 /* ViewController.swift */,
 				F692FE63236EE8CD00F13E09 /* Main.storyboard */,
 				F692FE66236EE8CE00F13E09 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			files = (
 				F692FE62236EE8CD00F13E09 /* ViewController.swift in Sources */,
 				F692FE5E236EE8CD00F13E09 /* AppDelegate.swift in Sources */,
+				F692FE72236EE8E300F13E09 /* SimpleRedux.swift in Sources */,
 				F692FE60236EE8CD00F13E09 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
